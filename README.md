@@ -1,16 +1,22 @@
-## Hi there 👋
+# Daiven Reyes
 
-<!--
-**rdaiven/rdaiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build websites and systems. This is my workbench.
 
-Here are some ideas to get you started:
+*Ship small. Learn by making. Every build counts.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Now
+
+- Rebuilding [seenergie.ph](https://seenergie.ph) — WordPress + Elementor, with Claude wired in through MCP automation
+- Building **inwright** — a zero-dependency static site generator and flat-file CMS. It started as a design prototype in my portfolio and became a real tool. Private while it grows; public release coming.
+
+### The Prototype Lab
+
+**[rdaiven.github.io](https://rdaiven.github.io)** — 21 prototypes designed and coded from scratch: storefronts, landing pages, motion studies, multi-page static sites, and three working mini apps. Each one carries its own design system. All of them are live, clickable demos.
+
+### Stack
+
+`WordPress` `Elementor` `ACF/SCF` `WooCommerce` · `React` `Tailwind` `PostgreSQL` `REST APIs` · `Technical SEO` `GSC` `GA4` · `Claude Code` `Anthropic API` `MCP` `n8n`
+
+### Elsewhere
+
+[Portfolio](https://rdaiven.github.io) · [Resume](https://rdaiven.github.io/resume.html) · [LinkedIn](https://www.linkedin.com/in/daivenr)
