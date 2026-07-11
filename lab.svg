@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="96" viewBox="0 0 900 96" role="img" aria-label="The Prototype Lab — 21 prototypes in 5 batches">
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <!-- 01 e-commerce -->
+    <rect x="0" y="4" width="168" height="88" rx="12" fill="#15171d" stroke="#262a34"/>
+    <text x="16" y="30" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="2" fill="#5f6672">01 · BATCH</text>
+    <text x="16" y="54" font-size="15" font-weight="600" fill="#f2f3f5">E-commerce</text>
+    <text x="16" y="74" font-size="12" fill="#9aa0ab">3 storefronts</text>
+    <!-- 02 landing -->
+    <rect x="183" y="4" width="168" height="88" rx="12" fill="#15171d" stroke="#262a34"/>
+    <text x="199" y="30" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="2" fill="#5f6672">02 · BATCH</text>
+    <text x="199" y="54" font-size="15" font-weight="600" fill="#f2f3f5">Landing pages</text>
+    <text x="199" y="74" font-size="12" fill="#9aa0ab">10 brands</text>
+    <!-- 03 motion -->
+    <rect x="366" y="4" width="168" height="88" rx="12" fill="#15171d" stroke="#262a34"/>
+    <text x="382" y="30" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="2" fill="#5f6672">03 · BATCH</text>
+    <text x="382" y="54" font-size="15" font-weight="600" fill="#f2f3f5">Motion</text>
+    <text x="382" y="74" font-size="12" fill="#9aa0ab">2 showcases</text>
+    <!-- 04 static -->
+    <rect x="549" y="4" width="168" height="88" rx="12" fill="#15171d" stroke="#262a34"/>
+    <text x="565" y="30" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="2" fill="#5f6672">04 · BATCH</text>
+    <text x="565" y="54" font-size="15" font-weight="600" fill="#f2f3f5">Static sites</text>
+    <text x="565" y="74" font-size="12" fill="#9aa0ab">3 sites · 10 pages</text>
+    <!-- 05 systems -->
+    <rect x="732" y="4" width="168" height="88" rx="12" fill="#15171d" stroke="#6b8afd"/>
+    <text x="748" y="30" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="2" fill="#6b8afd">05 · BATCH</text>
+    <text x="748" y="54" font-size="15" font-weight="600" fill="#f2f3f5">Working systems</text>
+    <text x="748" y="74" font-size="12" fill="#9aa0ab">3 real mini apps</text>
+  </g>
+</svg>

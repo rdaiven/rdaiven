@@ -1,8 +1,6 @@
-# Daiven Reyes
-
-I build websites and systems. This is my workbench.
-
-*Ship small. Learn by making. Every build counts.*
+<p align="center">
+  <a href="https://rdaiven.github.io"><img src="banner.svg" width="900" alt="Daiven Reyes — I build websites and systems. This is my workbench." /></a>
+</p>
 
 ### Now
 
@@ -11,7 +9,11 @@ I build websites and systems. This is my workbench.
 
 ### The Prototype Lab
 
-**[rdaiven.github.io](https://rdaiven.github.io)** — 21 prototypes designed and coded from scratch: storefronts, landing pages, motion studies, multi-page static sites, and three working mini apps. Each one carries its own design system. All of them are live, clickable demos.
+**[rdaiven.github.io](https://rdaiven.github.io)** — 21 prototypes designed and coded from scratch, each with its own design system. All of them are live, clickable demos.
+
+<p align="center">
+  <a href="https://rdaiven.github.io/work/"><img src="lab.svg" width="900" alt="The Prototype Lab batches: 3 storefronts, 10 landing pages, 2 motion showcases, 3 static sites, 3 working mini apps" /></a>
+</p>
 
 ### Stack
 

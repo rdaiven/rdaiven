@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Daiven Reyes — I build websites and systems">
+  <rect width="900" height="240" rx="14" fill="#0d0e12"/>
+  <rect x="0.5" y="0.5" width="899" height="239" rx="13.5" fill="none" stroke="#262a34"/>
+  <!-- dot grid -->
+  <g fill="#1b1e26">
+    <circle cx="700" cy="40" r="2"/><circle cx="740" cy="40" r="2"/><circle cx="780" cy="40" r="2"/><circle cx="820" cy="40" r="2"/><circle cx="860" cy="40" r="2"/>
+    <circle cx="700" cy="80" r="2"/><circle cx="740" cy="80" r="2"/><circle cx="780" cy="80" r="2"/><circle cx="820" cy="80" r="2"/><circle cx="860" cy="80" r="2"/>
+    <circle cx="700" cy="120" r="2"/><circle cx="740" cy="120" r="2"/><circle cx="780" cy="120" r="2"/><circle cx="820" cy="120" r="2"/><circle cx="860" cy="120" r="2"/>
+    <circle cx="700" cy="160" r="2"/><circle cx="740" cy="160" r="2"/><circle cx="780" cy="160" r="2"/><circle cx="820" cy="160" r="2"/><circle cx="860" cy="160" r="2"/>
+    <circle cx="700" cy="200" r="2"/><circle cx="740" cy="200" r="2"/><circle cx="780" cy="200" r="2"/><circle cx="820" cy="200" r="2"/><circle cx="860" cy="200" r="2"/>
+  </g>
+  <!-- eyebrow -->
+  <rect x="48" y="52" width="26" height="2" fill="#6b8afd"/>
+  <text x="86" y="58" font-family="ui-monospace, 'Cascadia Mono', Consolas, monospace" font-size="12" letter-spacing="3" fill="#6b8afd">DAIVEN REYES — WEB SYSTEMS &amp; AUTOMATION</text>
+  <!-- headline -->
+  <text x="46" y="118" font-family="'Segoe UI', system-ui, sans-serif" font-size="42" font-weight="700" letter-spacing="-1" fill="#f2f3f5">I build websites and systems.</text>
+  <text x="46" y="164" font-family="'Segoe UI', system-ui, sans-serif" font-size="42" font-weight="700" letter-spacing="-1" fill="#5f6672">This is my workbench.<tspan fill="#6b8afd">▮<animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></tspan></text>
+  <!-- manifesto -->
+  <text x="48" y="204" font-family="ui-monospace, 'Cascadia Mono', Consolas, monospace" font-size="13" letter-spacing="1" fill="#9aa0ab">Ship small. Learn by making. Every build counts.</text>
+</svg>
