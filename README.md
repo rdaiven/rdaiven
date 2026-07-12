@@ -4,7 +4,7 @@
 
 ### Now
 
-- Rebuilding [seenergie.ph](https://seenergie.ph) — WordPress + Elementor, with Claude wired in through MCP automation
+- Building **keel** — a zero-dependency CSS framework that starts with your design system: one stylesheet, five native cascade layers, zero JavaScript, WCAG AA enforced in code. [rdaiven.github.io/keel](https://rdaiven.github.io/keel)
 - Building **inwright** — a zero-dependency static site generator and flat-file CMS. It started as a design prototype in my portfolio and became a real tool. Private while it grows; public release coming.
 
 ### The Prototype Lab
